@@ -1,2 +1,2 @@
 # Gunshu Master
- College project on game developmente
+ College project on game development
